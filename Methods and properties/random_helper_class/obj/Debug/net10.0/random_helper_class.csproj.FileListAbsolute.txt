@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\bin\Debug\net10.0\random_helper_class.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\bin\Debug\net10.0\random_helper_class.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\bin\Debug\net10.0\random_helper_class.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\bin\Debug\net10.0\random_helper_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\bin\Debug\net10.0\random_helper_class.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\refint\random_helper_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\random_helper_class.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to object oriented programming\random_helper_class\obj\Debug\net10.0\ref\random_helper_class.dll
